@@ -13,8 +13,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="500" alt="Coding at Night"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Kawaii Loading"/>
 </p>
+
 
 ---
 
