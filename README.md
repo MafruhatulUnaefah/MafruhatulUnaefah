@@ -39,10 +39,10 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MafruhatulUnaefah&theme=react&background=0d1117&border=666">
   </a>
 </p>
+
 ---
 
-### 🛠 Tech Stack
-
+<p align="center"><b>Tech Stack</b></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
