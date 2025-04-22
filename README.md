@@ -46,7 +46,7 @@
 
 ### 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -79,7 +79,7 @@
 
 ### 📫 Contact Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/mfrunaa_12/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
