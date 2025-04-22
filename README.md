@@ -13,9 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="1200" alt="Penguin Coding"/>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="500" alt="Coding at Night"/>
 </p>
-
 
 ---
 
