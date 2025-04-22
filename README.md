@@ -25,10 +25,8 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
 <p align="center"><b>Statistic Github</b></p>
+### 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/MafruhatulUnaefah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MafruhatulUnaefah&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
