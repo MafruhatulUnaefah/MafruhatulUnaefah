@@ -20,12 +20,12 @@
 ### 📊 GitHub Stats
 
 <p align="center"><b>Statistic Github</b></p>
-  <div align="center">
-  <a href="https://github.com/aranv20">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/apiusername=araniverse&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=araniverse&theme=react&background=0d1117&border=666&layout=compact&langs_count=6"/>
-  </a>
-  </div>
+<div align="center">
+<a href="https://github.com/aranv20">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=araniverse&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=araniverse&theme=react&background=0d1117&border=666&layout=compact&langs_count=6"/>
+</a>
+</div>
 
 <p align="center"><b>Contributions</b></p>
 <p align="center">
@@ -33,7 +33,6 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=araniverse&theme=react&background=0d1117&border=666">
   </a>
 </p>
-
 ---
 
 ### 🛠 Tech Stack
