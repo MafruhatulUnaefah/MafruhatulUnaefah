@@ -67,7 +67,7 @@
   <a href="https://www.instagram.com/mfrunaa_12/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mafruhatulkampus.1211@gmail.com">
+  <a href="mailto:mafruhatulkampus.1211@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mafruhatul-unaefah/" target="_blank">
