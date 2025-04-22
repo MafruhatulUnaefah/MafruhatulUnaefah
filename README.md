@@ -26,7 +26,6 @@
 ---
 
 <p align="center"><b>Statistic Github</b></p>
-### 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/MafruhatulUnaefah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MafruhatulUnaefah&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
@@ -44,7 +43,7 @@
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -75,8 +74,7 @@
 
 ---
 
-### 📫 Contact Me
-
+<p align="center"><b>Contact Me</b></p>
 <p align="center">
   <a href="https://www.instagram.com/mfrunaa_12/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
