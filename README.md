@@ -29,25 +29,32 @@
 
 ---
 
-### 📫 Connect with Me
+### 🛠 Tech Stack
 
-<p>
-  <a href="https://www.linkedin.com/in/mafruhatul-unaefah" target="_blank">
-    <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="mailto:mafruhatulkampus.1211@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
-  </a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
 </p>
-
-<br><br>
 
 ---
 
-### 🛠 Tech Stack
+### 📫 Contact Me
 
-```bash
-💻 Languages:       PHP, JavaScript, HTML, CSS
-⚙️ Frameworks:      Laravel, Tailwind, Bootstrap
-🔧 Tools:           Git, VS Code, MySQL, Postman
-🌐 Deployment:      Vercel, cPanel, Shared Hosting
+<p align="left">
+  <a href="https://www.instagram.com/your_instagram/](https://www.instagram.com/mfrunaa_12/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mafruhatulkampus.1211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin/](https://www.linkedin.com/in/mafruhatul-unaefah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
