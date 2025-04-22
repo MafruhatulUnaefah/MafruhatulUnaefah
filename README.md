@@ -19,16 +19,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MafruhatulUnaefah&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+<p align="center"><b>Statistic Github</b></p>
+  <div align="center">
+  <a href="https://github.com/aranv20">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/apiusername=araniverse&theme=react&background=0d1117&border=666&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=araniverse&theme=react&background=0d1117&border=666&layout=compact&langs_count=6"/>
+  </a>
+  </div>
 
+<p align="center"><b>Contributions</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MafruhatulUnaefah&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MafruhatulUnaefah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=araniverse&theme=react&background=0d1117&border=666">
+  </a>
 </p>
 
 ---
