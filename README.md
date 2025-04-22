@@ -11,6 +11,11 @@
 - 💬 Ask me about **Laravel, Blade, MySQL, Tailwind, Git**
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
+</p>
+
+---
 
 ![Anime Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ![Coding Vibes](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)
