@@ -45,7 +45,7 @@
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.instagram.com/your_instagram/](https://www.instagram.com/mfrunaa_12/" target="_blank">
+  <a href="https://www.instagram.com/mfrunaa_12/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mafruhatulkampus.1211@gmail.com">
