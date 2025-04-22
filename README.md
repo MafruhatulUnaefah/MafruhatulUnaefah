@@ -11,9 +11,11 @@
 - 💬 Ask me about **Laravel, Blade, MySQL, Tailwind, Git**
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" alt="coding-gif"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="1200" alt="Penguin Coding"/>
 </p>
+
 
 ---
 
