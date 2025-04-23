@@ -90,7 +90,9 @@
 ---
 
 <p align="center"><b>Contribution Graph</b></p>
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MafruhatulUnaefah&theme=react-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MafruhatulUnaefah&theme=algolia&no-frame=true&row=2&column=3" />
 </p>
+
 
