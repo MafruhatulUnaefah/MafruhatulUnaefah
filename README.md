@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mafruhatul Unaefah</h1>
 <h3 align="center">Students at Lampung State Polytechnic</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mafruhatul+Unaefah;Students+at+State+Polytechnic+of+Lampung;Laravel+%7C+Tailwind+%7C+Vue.js+Enthusiast;Open+to+Collaborations+%F0%9F%A4%9D" />
-</p>
-
-
 ---
 
 ### 🌟 About Me
